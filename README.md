@@ -1,4 +1,4 @@
-<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+%F0%9F%91%8B,+I%27m+Nguyen+Quang+Truong"></p>
+<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+%F0%9F%91%8B,+I%27m+Nguyễn+Quang+Trường"></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img align="right" alt="Hacking" width="400" src="https://giffiles.alphacoders.com/174/1744.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luckyman2907&label=Profile%20views&color=0e75b6&style=flat" alt="luckyman2907" /> </p>
