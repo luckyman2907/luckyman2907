@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm NQT</h1>
+<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%27m+a+Full+Stack+Developer;I%27m+a+System+Engineer;I%27m+a+DevSecOps%20Engineer"></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img align="right" alt="Hacking" width="400" src="https://giffiles.alphacoders.com/174/1744.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luckyman2907&label=Profile%20views&color=0e75b6&style=flat" alt="luckyman2907" /> </p>
